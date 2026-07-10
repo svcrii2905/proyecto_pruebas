@@ -1,1 +1,1 @@
-console.log("Este es un ejemplo de código subido en github.");
+console.log("cambio desde colaborador exitoso");
