@@ -1,0 +1,1 @@
+console.log("Este es un ejemplo de código en JavaScript subido en github.");
