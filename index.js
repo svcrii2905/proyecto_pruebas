@@ -1,1 +1,1 @@
-console.log("Este es un ejemplo de código en JavaScript subido en github.");
+console.log("Este es un ejemplo de código subido en github.");
